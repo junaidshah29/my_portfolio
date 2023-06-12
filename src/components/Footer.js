@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed by Junaid Shah</h3>
+          <h3>Designed by Pratiksha Anarase</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} jshah</h3>
+          <h3>Copyright © {year} Pratiksha</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/junaidshah29"    //github link
+                href="https://github.com/Pratiksha-Anarase"    //github link
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/junaid-shah-8a7027215/"
+                href="https://www.linkedin.com/in/pratiksha-anarase-9a1b94252/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
